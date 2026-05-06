@@ -1,7 +1,0 @@
-my_api/
-│
-├── node_modules/
-├── package.json
-├── routes/
-│   └── health.js
-└── server.js
